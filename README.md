@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 <br />
 <br />
-You are my ![Visitor Count](https://profile-counter.glitch.me/Meitong-Chen/count.svg)
- visitor, Thank You for visiting!
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/Meitong-Chen/count.svg) visitor, Thank You for visiting!
 
 
