@@ -3,11 +3,11 @@
 <br />
 
 - 💡Education Backgrounds: Business Analytics in University of California, Davis | Financial Mathematics in Hong Kong Baptist University
-
+<br />
 - :bowtie:Skills: Data Analysis,  Risk Assessment, Supply Chain, Web Scraping, SEO Optimization, LLM, System developing
-  
+<br />
 - :📫 How to reach me: mtch@ucdavis.edu
-  
+<br /> 
 - :💻 Programming Languages:  ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
